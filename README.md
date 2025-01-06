@@ -1,6 +1,6 @@
 # Hello :rocket:
 
-I'm Emilio, an IT Engineer with more than 5 years of experience in software development. I like being involved in the entire life cycle of software. Currently, I am working on developing IT solutions for public organizations. I'm passionate about tech and continuous learning, constantly striving to enhance my skills and stay ahead in the tech world.
+I'm Emilio, an IT engineer with over five years of experience in software development. I enjoy being involved in the entire software lifecycle. Currently, I am working on developing IT solutions for public organizations. I'm passionate about technology and continuous learning, constantly striving to enhance my skills and stay ahead in the tech world.
 
 
 ### Tech & Tools Preference
