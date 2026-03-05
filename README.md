@@ -1,18 +1,34 @@
-# Hello :rocket:
+# Hi there 👋
 
-I'm Emilio, an IT engineer with over five years of experience in software development. I enjoy being involved in the entire software lifecycle. Currently, I am working on developing IT solutions for public organizations. I'm passionate about technology and continuous learning, constantly striving to enhance my skills and stay ahead in the tech world.
+### 🚀 Software Engineer | Backend Developer
 
+- 🔭 **Experience:** 5+ years developing and maintaining backend services.  
+- 🌱 **Technologies:** Python, Node.js, APIs, SQL and NoSQL databases.  
+- 💬 **Infrastructure:** Linux server administration and deployment with Docker and microservices.  
+- 📚 **Interests:** System optimization, homelab projects, and exploring new architectures.  
 
-### Tech & Tools Preference
+---
 
-![Tech](https://skillicons.dev/icons?i=python,javascript)
+### 📚 Learning
+- **TypeScript:** Static typing for Node.js projects.  
+- **RAG & Vector Databases:** Integrating ChromaDB with LLMs through APIs.  
+- **MCP with FastMCP (Python):** Building context protocols for LLM interaction.  
 
-![Frameworks](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,prisma)
+---
 
+### 🛠️ Tech Stack & Toolbox
+
+#### **Backend & Logic**
+![Backend](https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express,prisma)
+
+#### **Frontend & Design**
+![Frontend](https://skillicons.dev/icons?i=astro,gatsby,tailwind)
+
+#### **Databases**
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,supabase,redis)
 
-![Services](https://skillicons.dev/icons?i=nginx,linux,docker,bash)
+#### **Infrastructure & Services**
+![Infra](https://skillicons.dev/icons?i=linux,docker,nginx,bash)
 
-### Other & Interests
-![Other & Interests](https://skillicons.dev/icons?i=vim,markdown,astro,gatsby,tailwind)
-
+#### **Other & Interests**
+![Other](https://skillicons.dev/icons?i=vim,markdown)
