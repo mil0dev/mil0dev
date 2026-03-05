@@ -2,10 +2,10 @@
 
 ### 🚀 Software Engineer | Backend Developer
 
-- 🔭 **Experience:** 5+ years developing and maintaining backend services.  
-- 🌱 **Technologies:** Python, Node.js, APIs, SQL and NoSQL databases.  
-- 💬 **Infrastructure:** Linux server administration and deployment with Docker and microservices.  
-- 📚 **Interests:** System optimization, homelab projects, and exploring new architectures.  
+- 🧑🏻‍💻 **Experience:** 5+ years developing and maintaining backend services.  
+- ⚡ **Technologies:** Python, Node.js, APIs, SQL and NoSQL databases.  
+- 🖥️ **Infrastructure:** Linux server administration and deployment with Docker and microservices.  
+- 🔍 **Interests:** System optimization, homelab projects, and exploring new architectures.  
 
 ---
 
